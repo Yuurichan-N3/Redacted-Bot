@@ -1,0 +1,5 @@
+aiohttp
+fake_useragent
+pytz
+rich
+aiohttp_socks
